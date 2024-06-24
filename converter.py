@@ -25,23 +25,14 @@ is_nota = False
 
 for i in range(1, len(lines)):
     if lines[i].strip() != '':
-        tabs = ''
-        if (lines[i][:8] == '\t\t\t\t\t\t\t\t'):
-            tabs = '                '
-        elif (lines[i][:7] == '\t\t\t\t\t\t\t'):
-            tabs = '              '
-        elif (lines[i][:6] == '\t\t\t\t\t\t'):
-            tabs = '            '
-        elif (lines[i][:5] == '\t\t\t\t\t'):
-            tabs = '          '
-        elif (lines[i][:4] == '\t\t\t\t'):
-            tabs = '        '
-        elif(lines[i][:3] == '\t\t\t'):
-            tabs = '      '
-        elif(lines[i][:2] == '\t\t'):
-            tabs = '    '
-        elif(lines[i][:1] == '\t'):
-            tabs = '  '
+        # count how many tabs
+        tab_count = 0
+        for j in range(len(lines[i])):
+            if lines[i][j] == '\t':
+                tab_count += 1
+            else:
+                break
+        tabs = '\t' * tab_count
 
         if (is_nota and lines[i].strip().startswith(']')):
             is_nota = False
