@@ -1,0 +1,399 @@
+﻿TRAUMA RAQUIMEDULAR
+[
+Lesión aguda de columna vertebral que puede provocar importante discapacidad, incluso la muerte.
+Se producen en 50% por accidentes de transito. Por lo tanto, debe ser sospechada en todo poliTMT.
+]
+	Epidemiología
+		Prevalencia 280.000
+		Adulto joven
+		Masculino
+		70% tiene politrauma
+	MECANISMOS DE DAÑO MEDULAR
+		PRIMARIO
+		[
+		Daño mecánico directo por desplazamientos.
+		]
+			COMPRESIÓN Y/O INJURIA VASCULAR O NEUROLÓGICA
+				Compresión de ME por fragmentos óseos
+				Disco intervertebral herniado
+				Alteraciones vasculares
+				Acción directa de proyectiles
+				Laceración o Distensión medular
+				Dislocación/ fractura vertebral
+			TIPO DE LESIÓN
+				HIPERFLEXIÓN
+					DISRUPTIVA
+					COMPRESIVA
+				HIPEREXTENSIÓN
+					DISRUPTIVA
+					COMPRESIVA
+				COMPRESIÓN AXIAL
+					FRACTURAS POR ESTALLIDO
+		SECUNDARIO
+		[
+		Daño indirecto
+		]
+			POR ACTIVACIÓN DE CASCADA DE INFLAMACIÓN
+				Microhemorragias, trombosis, edema, isquemia, destrucción tisular
+	EVALUACIÓN
+		TIPOS DE LESIONES
+		[
+		LESIÓN CERVICAL ES LA MÁS FRECUENTE.
+		]
+			MEDULAR
+				COMPLETA
+					Plejia y anestesia bajo nivel de lesión
+					Parálisis esfinteriana
+				INCOMPLETA
+					Síndromes medulares
+						Sd medular central
+							Debilidad EESS mayor que EEII
+							Hiperflexión en anciano con raquiestenosis
+						Brown- Séquard
+							Déficit motor y propioceptivo ipsilateral; Pérdida sensibilidad termoalgésica contralateral
+						Cordonal anterior
+							Pérdida función motora y sensibilidad termoalgésica; preserva propiocepción y tacto suave
+						Cono medular
+						Cauda equina
+				SCIWORA
+				[
+				Lesión médular espinal sin anormalidad radiográfica
+				]
+					Evidencia limitada en cuanto a manejo
+					Outcome neurológico dependiente del estado neurológico inicial
+					Estudio
+						RM
+							Hallazgos sutiles que tengan correlación
+					Manejo
+						Similar a TRM
+						No hay RCT de manejo
+			SHOCK
+				MEDULAR
+				[
+				ES TRANSITORIO. PUEDE EXAGERAR INICIALMENTE LA SEVERIDAD DEL DAÑO NEUROLÓGICO DEL TRM.
+				
+				TRATAR DE MANERA CONSERVADORA Y OBSERVAR LA RECUPERACIÓN DE LA FUNCIÓN.
+				]
+					FASES CLÍNICAS
+						Fase I (primeras 24 hrs)
+							Arreflexia, parálisis flácida y anestesia bajo el nivel de la lesión, y pérdida de función intestinal y vesical.
+							Reflejo bulbocavernoso suele ser uno de los que se recupera más rápidamente.
+							[
+							Debe evaluarse en todos los pacientes para diferenciar entre lesión medular completa e incompleta.
+							]
+						Fase II (1-3 días)
+							Recuperación inicial de reflejos.
+							Recuperación gradual de reflejos miotáticos.
+						Fase III (día 4 - primer mes)
+							Continúa recuperación de reflejos miotáticos, con cierta hiperreflexia inicial.
+						Fase IV (1 - 12 meses)
+							Espasticidad e hiperreflexia con hiperactividad de la mayoría de los reflejos cutáneos y miotáticos.
+							Respuesta contráctil del músculo detrusor se recupera entre las 4 y 6 semanas.
+					AUSENCIA DE TODA FUNCIÓN REFLEJA BAJO NIVEL DE LA LESIÓN
+					[
+					Spinal shock is diagnosed through evaluation of the bulbocavernosus and/or cremasteric reflexes. If these reflexes are absent, then the patient is in spinal shock, and when they return, the shock period has ended.
+					
+					Once the period of spinal shock has ended and the bulbocavernosus and/or
+					cremasteric reflexes have returned, then the neurologic examination at that time likely
+					reflects what the permanent level and degree of deficits will be.
+					]
+						Tono vasomotor
+						Sudoración
+						Piloerección
+						Incontinencia por rebalse
+						Retención fecal e ileo paralítico
+						Ausencia de reflejo bulbocavernoso y/o cremastérico
+				NEUROGÉNICO
+				[
+				ES LA CONSECUENCIA HEMODINÁMICA DE UNA LESIÓN MEDULAR.
+				
+				SE DA PRINCIPALMENTE EN LESIONES CERVICAL Y TORÁCICAS ALTAS (LESIÓN VÍA SIMPÁTICA)
+				
+				SE TRATA SIMILAR A OTROS TIPOS DE SHOCK:LÍQUIDOS EV O VASOPRESORES
+				]
+					HIPOTENSIÓN REFRACTARIA
+					[
+					Hipotensión por vasodilatación,
+					con > perfusión de EEII
+					]
+						Shock "caliente"
+					BRADICARDIA
+					Consecuencia hemodinámica del TRM
+					Lesión cervical alta
+						Puede haber hipotensión con bradicardia paradojal
+					Lesión cervical/dorsal
+						Pérdida de tono simpático cardiaco y vasomotor
+						Se beneficia de vasopresor precoz
+		Complicaciones
+			CV
+				Bradicardia/Disrritmia
+				PCR
+				EPA cardiogénico
+			Pulmonar
+				Falla ventilarotia/Hipoventilación
+				Mal manejo secreciones
+				ARDS
+				Aspiración
+				Neumonía
+			Gastro
+				Ileo adinámico
+				Gastritis/Úlcera
+				Pancreatitis
+			Hemato
+				TVP
+			Neurológicas
+				Shock neurogénico
+				Depresión
+				Dolor crónico
+			Genitourinario
+				Disfunción vesical
+				ITu
+				Priaprismo
+			Piel
+				UPP
+	MANEJO INICIAL
+	[
+	EL FOCO TERAPÉUTICO ES EVITAR Y CORREGIR EL DAÑO SECUNDARIO, ESPECIALMENTE HIPOXIA E HIPOPERFUSION
+	
+	No se debe olvidar evaluar otras lesiones primero, salvo que haya compromiso de columna cervical (obstrucción vía aérea) o shock neurogénico (compromiso hemodinámico).
+	Inmovilización espinal es suficiente mientras se evalúan otras fuentes de hemorragia.
+	]
+		ABC
+			O2 AL 100% POR CÁNULA NASAL, INTUBACIÓN PRECOZ EN C4 O SUPERIOR
+			[
+			PUEDE HABER PARÁLISIS RESPIRATORIA EN LESIÓN SOBRE C5
+			ATELECTASIA + FALLA RESPIRATORIA EN LESIÓN CERVICAL
+			]
+			MANTENER PAM > 85-90 mmHg
+			ABC "D"
+				1. GCS y pupilas
+				2. Examen motor/sensitivo segmentario
+				3. Función esfinteriana
+					Podría definir si lesión es incompleta
+		INMOVILIZACIÓN PROTECTORA  Y MOVILIZACIÓN EN BLOQUE
+		RECONOCER SHOCK NEUROGÉNICO
+		[
+		MANTENER PERFUSIÓN MEDULAR
+		]
+			PÉRDIDA TONO SIMPÁTICO
+			[
+			SIMPATECTOMÍA POST TRAUMA DE COLUMNA CERVICAL
+			]
+			HIPOTENSIÓN Y BRADICARDIA
+			Corregir inicialmente con volumen sin sobrecargar
+			DVA, catéter A. Pulmonar
+			Mantener PAM>80
+		DIAGNÓSTICO RADIOLÓGICO PRECOZ
+			OBLIGATORIAS
+				RX COLUMNA CERVICAL
+				RX COLUMNA DORSAL Y LUMBAR
+				RX DE TORAX
+				RX DE PELVIS
+			ESPECIALES
+				TRANSORAL C1-C2
+				PROYECCIÓN DEL NADADOR
+			Estudio inicial con TAC
+				100% VPN
+			RM
+			[
+			Solo solicitarla si quiero evaluar colección medular, daño ligamentarios, colecciones epidurales o hernia traumática.
+			]
+				Ligamentos y tejidos blandos en T1, T2, STIR
+		REDUCCIÓN + TRACCIÓN PRECOZ DE FRACTURAS CERVICALES POR ESPECIALISTA
+		CIRUGIA EN CASO DE COMPRESIÓN MEDULAR O FRACTURA INESTABLE
+		Manejo inicial del trauma
+			Gravedad de lesión
+				Completa
+					Sin función neurológica por debajo del nivel de lesión
+				Incompleta
+					Tiene cualquier función bejo el nivel de lesión
+					[
+					Preserva sensibilidad perianal
+					Preservación de raíces sacras: Perimite mantener función esfinter anal y movimiento7sensación de hallux.
+					]
+					Podría descomprimirse
+				ASIA
+					A. Completo
+					[
+					Sólo 7% tiene posibilidad de mejora (hasta máximo ASIA B).
+					]
+						Sin función motora ni sensitiva
+					B. Sensitivo incompleto
+					[
+					54% de posibilidad de recuperación funcional, convirtiéndose a ASIA C o D a los 12 meses.
+					]
+						Sin función motora, sí sensitiva, incluso segmentos sacros
+					C. Motor incompleto
+						Hay función motora bajo el nivel de la lesión, y > 50% con fuerza <M3
+					D. Motor incompleto
+						Hay función motora bajo el nivel de la lesión, > 50% con fuerza > o = M3
+					E. Normal
+						Neurológicamente intacto, función sensoriomotora normal en todos los segmentos.
+				Si hay shock espinal
+					No se puede definir si lesión es completa o incompleta por 48 horas
+					[
+					Hasta resolver shock
+					]
+	Manejo TRM
+	[
+	Objetivos principales:
+	-prevenir lesión secundaria.
+	-proveer condiciones óptimas para recuperación.
+	]
+		Médico
+			General
+				Inmovilización
+				[
+				Inmovilizaciones rígidas deben ser removidas lo antes posible, y cambiar a collares más blandos y movilización en bloque (en vez de tabla espinal).
+				]
+				Manejo dolor
+				SNG: Descompresión gástrica (Íleo)
+				S Foley: Disfunción vesical
+				Evaluación psiquiátrica precoz
+			Vía aérea
+				TRM alto
+					Tetraplejia y distrés ventilatorio que requiere de intubación
+				Pacientes con lesiones C5-T6
+					50% deterioro lento con requerimientos de intubación de emergencia
+					Puede haber lesión secundaria
+						Hipoxia
+						Movilización cervical para intubación
+					Morbilidad de ventilación insuficiente
+						Atelectasias
+						Neumonía
+						Descompensación hipóxica
+				Indicadores de intubación precoz
+					Lesión sobre C5
+					Tetraplejia
+					Lesiones asociadas, sobretodo torácicas
+					Medición seriada de capacidad vital
+				TQT
+					PAcientes que se estima VM > 2 semanas
+					Beneficios
+						Manejo secreciones
+						Destete VM
+						[
+						El mejor indicador para saber la probabilidad de éxito del destete es el nivel de lesión medular. Una lesión de C3 hacia arriba se relaciona con VM permanente.
+						]
+						< neumonía
+						rehabilitación precoz
+			Hemodinámico
+			[
+			SE DEBE EVITAR HIPOTENSIÓN (PAS <90).
+			]
+				PAS > 90
+				PAM > 85 por 7 días
+					Mejora score de ASIA
+				Shock neurogénico (TRM cervical)
+				[
+				Puede ocurrir hasta en 20% de pacientes con lesión cervical, y 7% en lesión torácica.
+				]
+					Vasopresores
+				Presión perfusión espinal (PPE = PAM - PIE)
+				[
+				Presión de perfusión espinal (PPE)= PAM - PIE (presión intraespinal)
+				
+				Debido a que la PIE media después de un TRM es de 20-30 mmHg, se recomienda que la PPE óptima sea de 90-100 mmHg, y la PAM de 110-130 mmHg.
+				]
+					Medición presión intraespinal a través de catéter intradural
+					Aún en estudio
+			Corticoides
+			[
+			GUÍAS ACTUALES NO LO RECOMIENDAN POR ALTOS EFECTOS ADVERSOS.
+			]
+				NASCIS I-III
+					No demostró diferencias en cuanto al outcome neurológico luego de TRM con el uso de altas dosis de metlprednisolona
+					> tasa complicaciones
+						Infecciones
+						Úlcera gástrica
+						TVP
+						Infección herida op
+						Complicaciones pulmonares
+					Recomendación en contra de esta conducta
+			Tromboprofilaxis
+				2.5 veces más riesgo de TVP/ Incidencia 3-5%
+				1.6 veces más riesgo de TEP
+				Mayor riesgo en primeros 3 meses y > edad (20% mortalidad > 70 años)
+				Screening
+					Eco doppler EEII semanal en periodo de mayor riesgo
+				Profilaxis
+					MAE/ Compresión neumática intermitente
+					HBPM
+						Iniciar < 72 horas de lesión
+						Si contraindicación
+							Evaluar filtro vena cava
+							No sería mejor que tromboprofilaxis mecánica/farmacológica de rutina
+		Quirúrgico
+			Timing para descompresión
+				Precoz (8-24 h)
+				[
+				Estudio STASCIS demostró que TRM en columna cervical tenía mejor outcome al descomprimirlo <24 hrs.
+				]
+					Mejor outcome neurológico (ASIA)
+					Pacientes con lesión medular incompleta
+					Otros beneficios
+						Menos morbilidad ventilatoria
+						Menor tiempo VM
+						Menor tiempo UCI
+					ASIA A
+						Descompresión no mejora outcome neurológico
+			Definir inestabilidad
+				En agudo
+					Inmovilización cervical
+					Movilización en bloque
+					Ojo con UPP
+					Paciente con TRM + TEC/Politrauma
+						Ex físico dificultoso
+						Inmovilizar hasta TAC o RM (-)
+		TRM penetrante
+			Habitualmente secundario a arma de fuego
+			Lesión medular incompleta la mayoría de las veces
+				Trauma directo y por onda expansiva
+			Manejo
+			[
+			60% de Pacientes con lesiones por arma blanca son capaces de deambular al año, vs 24% de pacientes con lesiones por arma de fuego.
+			]
+				Manejo sistémico (otras lesiones del cuerpo).
+				ATB x 5 días (Cubrir gram -/+ y anaerobios) y vacuna antitetánica
+					> riesgo de infección si lesión abdominal
+				Corticoides no
+				Cx: Controversial
+					Escasa evidencia
+					No se recomienda exploración para retiro de proyectil. No aumenta riesgo de infección
+					[
+					Sólo si se se asocia a deterioro neurológico o toxicidad por plomo.
+					]
+					Indicaciones
+						Lesión medular incompleta con pérdida progresiva de función neurológica y evidencia radiológica de compresión neural.
+						[
+						Indicación absoluta.
+						]
+							LAMINECTOMÍA DESCOMPRESIVA
+							[
+							REALIZARSE TAN PRONTO COMO EL PACIENTE ESTÉ ESTABLE DE OTRAS LESIONES SISTÉMICAS. LO IDEAL, ANTES DE 72 HRS.
+							]
+						Lesiones por balas intracanal entre T12 y L4
+						Lesión cauda equina con compresión demostrada
+						Fístula LCR persistente
+						[
+						Laminectomía + reparación de la dura.
+						]
+						Deterioro neurológico (Sospecha fragmento o hematoma)
+						Inestabilidad
+						[
+						Primero realizar la laminectomía descompresiva, y una vez que el paciente se haya recuperado de las lesiones sistémicas y se haya estabilizado su estatus neurológico, ahí se puede realizar estabilización con instrumentación.
+						]
+						Remover bala de cobre (Inflamación severa)
+						Debridar?
+					Complicaciones
+						Inmediatas
+							Infecciones, fístulas de LCR, pseudomeningocele
+							Inestabilidad postop
+						Tardías
+							DOLOR
+							[
+							Complicación a largo plazo más frecuente de lesiones por arma de fuego. Remover la bala NO reduce la incidencia de dolor.
+							]
+							Toxicidad por plomo
+								Quelantes y retiro de bala
+							Bala migratoria
