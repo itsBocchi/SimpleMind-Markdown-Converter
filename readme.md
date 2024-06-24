@@ -1,6 +1,6 @@
 # SIMPLEMIND MARKDOWN CONVERTER
 
-SimpleMind Markdown Converter is a simple tool to convert exported txt files from SimpleMind to markdown format. It supports 8 levels of hierarchy and can be used to convert SimpleMind files to markdown format for use in other applications. 
+SimpleMind Markdown Converter is a simple tool to convert exported txt files from SimpleMind to markdown format. It supports multiple levels of hierarchy and can be used to convert SimpleMind files to markdown format for use in other applications. 
 
 ## Usage:
 1. Export your SimpleMind file to a txt file.
